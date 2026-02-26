@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "LOVE PHANTOM",
+  "base_artist": "B'z",
+  "createdAt": "2026-02-26T01:16:22.021520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOVE PHANTOM",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/01_LOVE_PHANTOM_B'z.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Phantom",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/02_Love_Phantom_B'z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LOVE PHANTOM",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/03_LOVE_PHANTOM_B'z.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LOVE PHANTOM",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/04_LOVE_PHANTOM_B'z.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LOVE PHANTOM",
+      "artist": "B'z - Singles",
+      "has_synced": true,
+      "path": "select/05_LOVE_PHANTOM_B'z_-_Singles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LOVE PHANTOM",
+      "artist": "B'z - Album",
+      "has_synced": true,
+      "path": "select/06_LOVE_PHANTOM_B'z_-_Album.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LOVE PHANTOM",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/07_LOVE_PHANTOM_B’z.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LOVE PHANTOM",
+      "artist": "B’z",
+      "has_synced": false,
+      "path": "select/08_LOVE_PHANTOM_B’z.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE PHANTOM",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_PHANTOM_B'z.txt"
+    }
+  ]
+}
